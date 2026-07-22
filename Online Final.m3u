@@ -41,13 +41,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3WS3tVK/20240822-225402.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel i
-http://103.114.11.37:8081/Channel-i/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L6MvsdFm/20240822-231309.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel S
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hvmC5cF5/20240822_230837.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",DBC News
-http://103.114.11.37:8081/DBC/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bYSFJHG9/20240822-230812.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deepto
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -74,13 +74,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent
-http://103.114.11.37:8081/Independent/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jamuna
-http://103.114.11.37:8081/Jamuna-TV/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/1R8bF1d6/20240822-230344.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
-http://103.114.11.37:8081/Masranga/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fq1Q4Hz/20240825_070144.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
